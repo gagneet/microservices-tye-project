@@ -732,7 +732,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Microsoft.Extensions.Caching.StackExchangeRedis >= *"
+      "Microsoft.Extensions.Caching.StackExchangeRedis >= 3.1.6"
     ]
   },
   "packageFolders": {
@@ -774,7 +774,7 @@
         "dependencies": {
           "Microsoft.Extensions.Caching.StackExchangeRedis": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "[3.1.6, )"
           }
         },
         "imports": [
