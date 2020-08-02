@@ -35,3 +35,11 @@ C:\Users\gagneet\Downloads\source\wealtho2-repos\microservices\frontend\obj\Debu
 C:\Users\gagneet\Downloads\source\wealtho2-repos\microservices\frontend\obj\Debug\netcoreapp3.1\frontend.pdb
 C:\Users\gagneet\Downloads\source\wealtho2-repos\microservices\frontend\obj\Debug\netcoreapp3.1\frontend.genruntimeconfig.cache
 C:\Users\gagneet\Downloads\source\wealtho2-repos\microservices\frontend\obj\Debug\netcoreapp3.1\frontend.csproj.CopyComplete
+C:\Users\gagneet\Downloads\source\wealtho2-repos\microservices\frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\gagneet\Downloads\source\wealtho2-repos\microservices\frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gagneet\Downloads\source\wealtho2-repos\microservices\frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\gagneet\Downloads\source\wealtho2-repos\microservices\frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\gagneet\Downloads\source\wealtho2-repos\microservices\frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\gagneet\Downloads\source\wealtho2-repos\microservices\frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\gagneet\Downloads\source\wealtho2-repos\microservices\frontend\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\gagneet\Downloads\source\wealtho2-repos\microservices\frontend\bin\Debug\netcoreapp3.1\Microsoft.Tye.Extensions.Configuration.dll
